@@ -15,4 +15,6 @@ I have obtained my BSc, MSc and PhD degrees in Mechanical Engineering at Institu
 
 # Updates
 
-TBA
+* The Euromech Colloquium 663 - *Recent developments in mechanics of fracture and interfaces with peridynamics and other methods* is happening in Lisbon in 21 September — 23 September 2026 [https://663.euromech.org/home/]. The deadline of abstract submission is May 4th.
+
+* Honoured to announce that I've received an Honourable Mention at the *Best Doctoral Thesis in Applied and Computational Mechanics 2025 Award*, by APMTAC. 
